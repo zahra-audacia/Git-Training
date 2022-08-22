@@ -4,4 +4,5 @@ export class Work {
     startMeridian: Meridian;
     endDate: Date;
     endMeridian: Meridian;
+    CREATEABUG:BUGGGGGGGGGGGGGGGGG;
 }
