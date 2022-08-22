@@ -1,1 +1,0 @@
-# Audacia.Training.GitDemo
